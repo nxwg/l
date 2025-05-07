@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="https://ufagg.cc/img/favicon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>เว็บตรงอันดับ 1 แท้ 100%</title>
+    <link rel="preconnect" href="https://ufagg.cc" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Kanit:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <script src="https://cdn.tailwindcss.com"></script>
+	<script>
+		const redirect = () => setTimeout(() => window.location.href = 'https://go888.pages.dev/', 1500);
+		redirect();
+		window.addEventListener('pageshow', (e) => e.persisted && redirect());
+	</script>
+  </head>
+	<body>
+	  <div class="text-white">
+		<div class="container max-w-screen-sm mx-auto text-center pb-16">
+		  <h1 class="text-2xl">🎰เกมสล็อต🎰</h1>
+		  <a href="https://go888.pages.dev/"
+			><img
+			  class="w-full"
+			  src="https://ufagg.cc/shop/slot.webp"
+			  alt="slot"
+			  title="slot"
+			/>
+			<h2 class="text-2xl">🎲คาสิโน🎲</h2>
+			<img
+			  class="w-full"
+			  src="https://ufagg.cc/shop/casino.webp"
+			  alt="casino"
+			  title="casino"
+			/>
+			<h2 class="text-2xl">⚽กีฬา⚽</h2>
+			<img
+			  class="w-full"
+			  src="https://ufagg.cc/shop/sport.webp"
+			  alt="sport"
+			  title="sport"
+			/>
+			<h2 class="text-2xl">🎱หวย🎱</h2>
+			<img
+			  class="w-full"
+			  src="https://ufagg.cc/shop/lotto.webp"
+			  alt="lotto"
+			  title="lotto"
+			/>
+		  </a>
+		</div>
+		<div class="fixed bottom-0 left-0 block w-full">
+		  <div class="container max-w-screen-sm mx-auto">
+			<a href="https://go888.pages.dev/"
+			  ><img
+				class="w-full hover:scale-110"
+				src="https://ufagg.cc/shop/reg.webp"
+				alt="สมัครสมาชิก"
+				title="สมัครสมาชิก"
+			/></a>
+		  </div>
+		</div>
+	  </div>
+	</body>
+  <style>
+    * {
+      font-family: "Kanit", sans-serif;
+      font-weight: 400;
+      font-style: normal;
+    }
+
+    body {
+      background-color: #171717;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    strong {
+      font-family: "Kanit", sans-serif;
+      font-weight: 700;
+      font-style: normal;
+    }
+  </style>
+</html>
